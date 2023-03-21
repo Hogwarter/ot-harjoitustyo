@@ -1,0 +1,113 @@
+commit 743614bcfacdabfd2e43d44486c254a4595dbd2e
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 19:07:11 2023 +0200
+
+	th11 ohi
+
+ tiedostoja/file2.txt             	| 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit bd1a06e8bef230f023eb7471cfebbd3fe9a6408d
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 19:04:06 2023 +0200
+
+	files1-3
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8dd3d9cdd4380b2e2fe639c058f1f10e22292e98
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 19:00:32 2023 +0200
+
+	lisaa eka ja kolmas
+
+ eka.txt	| 3 ++-
+ kolmas.txt | 4 +++-
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+
+commit c1a67c2b48e8947e81b62c10c62702b8830f70e4
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:58:59 2023 +0200
+
+	tiedosto to eka
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 42b552d7e8c2cb23ca6e49fee02e528cf0d3f64e
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:58:07 2023 +0200
+
+	poisto toinen
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 4fa885f419a7999f5a599290bc221c24eb2c8df4
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:57:03 2023 +0200
+
+	muutos tiedostoon2.0
+
+ tiedosto.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 94d4f24b34d2a97f37459be2a130a839c8ef8fda
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:56:25 2023 +0200
+
+	muutos tiedostoon
+
+ tiedosto.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 74a274097c1719ffb76424561f414341cd6e3400
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:51:27 2023 +0200
+
+	add stuff
+
+ stuff/jokutiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 12974af44e7342841994445dab19b783a4ec7600
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:50:39 2023 +0200
+
+	muokattu tokaa ja kolmatta
+
+ kolmas.txt | 2 ++
+ toinen.txt | 1 +
+ 2 files changed, 3 insertions(+)
+
+commit 113b1b992150f81e9719cb45a79b996a0c15009d
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:49:58 2023 +0200
+
+	kolmas lisatty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0151f651d716a57c7b0b92937934d528c31efc1e
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:48:56 2023 +0200
+
+	muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 6efaedb2ad8b4a62184d2468318bbbe033a8be08
+Author: London Isla L <islois@melkki.cs.helsinki.fi>
+Date:   Tue Mar 21 18:47:24 2023 +0200
+
+	tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
