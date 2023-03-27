@@ -1,11 +1,10 @@
-# Itse harjoitustyö
-[Tästä](https://github.com/Hogwarter/ot-harjoitustyo/tree/master/h-tyo)
+# [Itse harjoitustyö](https://github.com/Hogwarter/ot-harjoitustyo/tree/master/h-tyo)
 
 # Laskarit:
 
-## Viikko 2
+##  [Viikko 2](https://github.com/Hogwarter/ot-harjoitustyo/tree/master/laskarit/viikko2)
 
-## Viikko 1
+## [Viikko 1](https://github.com/Hogwarter/ot-harjoitustyo/tree/master/laskarit/viikko1)
 
 ### Git Log
 
