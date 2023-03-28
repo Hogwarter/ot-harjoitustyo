@@ -1,7 +1,7 @@
 # Työaikakirjanpito
 | päivä  | aika | mitä tein | 
 | :------------- | :------------- | :------------- |
-| 26.3  | 2 | Lueskelua  |
-| 27.3  | 4 | Harjoitustyön alustusta, työaikakirjanpidon aloitus ja muotoilu  |
+| 26.3  | 1 | Lueskelua  |
+| 27.3  | 3 | Harjoitustyön alustusta, työaikakirjanpidon aloitus ja muotoilu ja työn muu ideointi  |
 | 28.3  | 3 | Vaatimusmäärittelyä ja käyttöliittymäluonnoksen taiteilua  |
-| yht.  | 9 | Että sellasta  |
+| yht.  | 7 | Että sellasta  |
