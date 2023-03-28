@@ -6,7 +6,8 @@ Sovelluksen avulla voi käyttäjä pitää paremmin kirjaa erilaisista kokoelmis
 * Normaalikäyttäjä
 
 ## Käyttöliittymänäkymä
-Sovellus koostuu kolmesta e
+Sovellus koostuu 
+[Kuva käyttöliittymäluonnoksesta](https://github.com/Hogwarter/ot-harjoitustyo/blob/master/h-tyo/dokumentaatio/Kayttoliittymaluonnos.jpeg)
 
 ## Perusversion tarjoama toiminnallisuus
 
