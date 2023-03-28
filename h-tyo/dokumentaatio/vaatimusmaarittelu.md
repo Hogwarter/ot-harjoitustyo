@@ -6,7 +6,7 @@ Sovelluksen avulla voi käyttäjä pitää paremmin kirjaa erilaisista kokoelmis
 * Normaalikäyttäjä
 
 ## Käyttöliittymänäkymä
-Sovellus koostuu 
+Sovellus koostuu neljästä (4) eri perusnäkymästä, ja ainakin yhdestä popup-ikkunasta.
 
 ![Kuva käyttöliittymäluonnoksesta](https://github.com/Hogwarter/ot-harjoitustyo/blob/master/h-tyo/dokumentaatio/Kayttoliittymaluonnos.jpeg)
 
