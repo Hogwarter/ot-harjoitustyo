@@ -5,6 +5,8 @@
 
 # Laskarit:
 
+## [Viikko 3](https://github.com/Hogwarter/ot-harjoitustyo/tree/master/laskarit/viikko3)
+
 ##  [Viikko 2](https://github.com/Hogwarter/ot-harjoitustyo/tree/master/laskarit/viikko2)
 
 ## [Viikko 1](https://github.com/Hogwarter/ot-harjoitustyo/tree/master/laskarit/viikko1)
