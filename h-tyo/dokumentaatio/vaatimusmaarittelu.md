@@ -13,9 +13,9 @@ Sovellus koostuu neljästä (4) eri perusnäkymästä, ja ainakin yhdestä popup
 ## Perusversion tarjoama toiminnallisuus
 
 ### Ennen kirjautumista
-* Käyttäjä voi luoda järjestelmään käyttäjätunnuksen ja salasanan
+* Käyttäjä voi luoda järjestelmään käyttäjätunnuksen ja salasanan (Tehty)
   * Uniikki käyttäjätunnus, merkkejä 3-(?)
-* Olemassaoleva käyttäjä voi kirjautua syöttämällä kirjautumislomakkeeseen olemassaolevan käyttäjätunnuksenja salasanan
+* Olemassaoleva käyttäjä voi kirjautua syöttämällä kirjautumislomakkeeseen olemassaolevan käyttäjätunnuksenja salasanan (Tehty)
   * Jos ja kun  käyttäjää ei olemassa, salasana ei täsmää niin järjestelmä ilmoittaa asiasta käyttäjälle
 
 ### Kirjautumisen jälkeen

@@ -6,4 +6,6 @@
 | 28.3  | 3 | Vaatimusmäärittelyä ja käyttöliittymäluonnoksen taiteilua  |
 | 3.4  | 5 | UI - hommia  |
 | 3.4  | 7 | Testauksella leikkimistä  |
-| yht.  | 19 | Että sellasta  |
+| 16.4  | 3 | Tiedostoon tallennus  |
+| 17.4  | 12 | Poetryn tuhon tuottoa  |
+| yht.  | 34 | Että sellasta  |
