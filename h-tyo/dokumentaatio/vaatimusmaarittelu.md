@@ -13,15 +13,15 @@ Sovellus koostuu neljästä (4) eri perusnäkymästä, ja ainakin yhdestä popup
 ## Perusversion tarjoama toiminnallisuus
 
 ### Ennen kirjautumista
-* Käyttäjä voi luoda järjestelmään käyttäjätunnuksen ja salasanan (Tehty)
+* [X] Käyttäjä voi luoda järjestelmään käyttäjätunnuksen ja salasanan 
   * Uniikki käyttäjätunnus, merkkejä 3-(?)
-* Olemassaoleva käyttäjä voi kirjautua syöttämällä kirjautumislomakkeeseen olemassaolevan käyttäjätunnuksenja salasanan (Tehty)
-  * Jos ja kun  käyttäjää ei olemassa, salasana ei täsmää niin järjestelmä ilmoittaa asiasta käyttäjälle
+* [X] Olemassaoleva käyttäjä voi kirjautua syöttämällä kirjautumislomakkeeseen olemassaolevan käyttäjätunnuksenja salasanan
+  * [ ] Jos ja kun  käyttäjää ei olemassa, salasana ei täsmää niin järjestelmä ilmoittaa asiasta käyttäjälle
 
 ### Kirjautumisen jälkeen
-* Voi luoda uuden kokoelman
+* [ ] Voi luoda uuden kokoelman
   * Asettaa kerättävien tietojen määrän ja kuvaukset
-* Tutkiskella olemassa olevia kokoelmia sekä muokata kokoelman tietoja 
+* [ ] Tutkiskella olemassa olevia kokoelmia sekä muokata kokoelman tietoja 
   * Merkata onko jokin keräilykohde kerätty ja lisätä haluttuja kohteita
   * Muuttaa kerättyjä tietoja
 
