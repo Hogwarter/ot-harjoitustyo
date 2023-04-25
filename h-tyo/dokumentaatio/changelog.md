@@ -6,3 +6,7 @@ viikko3
 viikko 4
 - tallentaa ja lukee salasanoja ja käyttäjiä tiedostosta
 - poetry add, herjaa edelleen 'metadata' 
+
+viikko 5
+- sain vihdoin poetryn jotenkin toimimaan
+- Pylint on
