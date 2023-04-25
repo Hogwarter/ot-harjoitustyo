@@ -8,4 +8,6 @@
 | 3.4  | 7 | Testauksella leikkimistä  |
 | 16.4  | 3 | Tiedostoon tallennus  |
 | 17.4  | 12 | Poetryn tuhon tuottoa  |
-| yht.  | 34 | Että sellasta  |
+| 24.4  | 3 | Poetryn tuhon tuottoa (edelleen) |
+| 25.4  | 7 | Poetry vihdoin toimii  |
+| yht.  | 44 | Että sellasta  |
