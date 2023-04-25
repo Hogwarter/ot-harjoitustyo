@@ -25,7 +25,7 @@ class TestUI(unittest.TestCase):
             self.ui._username.event_generate(ch)
             self.root.update()
             time.sleep(0.2)
-            
+
         print(self.ui._username.get())
 
     # Todo:

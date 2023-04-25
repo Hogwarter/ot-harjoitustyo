@@ -12,7 +12,6 @@ class UI:
             self._view.destroy()
         self._view = None
 
-
     def start(self):
         self._view = ttk.Entry(master=self._root)
 
@@ -48,31 +47,31 @@ class UI:
             r = line.split(",")
             username = r[0]
             password = r[1]
-            #lastchar = len(password)-1
-            #password = password[0:lastchar]
+            # lastchar = len(password)-1
+            # password = password[0:lastchar]
             print(username, password)
             if self._username == username and self._password == password:
-                print("Hello",username)
+                print("Hello", username)
                 break
         self.choose_collection()
-        
+
     def new_user_click(self):
         new_username = simpledialog.askstring(
             title="Username", prompt="Input new username")
         new_password = simpledialog.askstring(
             title="Password", prompt="Input new password")
         self.users_file.write(new_username)
-        self.users_file.write (",")
+        self.users_file.write(",")
         self.users_file.write(new_password)
-        self.users_file.write ("\n")
+        self.users_file.write("\n")
         print(f"Username: {new_username}")
         print(f"Password: {new_password}")
 
 
 # tästä tiedosto collections view
 #    def choose_collection(self):
-#        self._view = 
-#        
+#        self._view =
+#
 #        return
 
 # tuleva tiedosto new user view loppuu tähän
