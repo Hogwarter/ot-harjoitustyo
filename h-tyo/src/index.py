@@ -1,11 +1,28 @@
 from tkinter import Tk, ttk, constants, simpledialog
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+import json
+#import pygsheets
+#import pandas as pd
 
+scopes = [
+'https://www.googleapis.com/auth/spreadsheets',
+'https://www.googleapis.com/auth/drive'
+]
+
+credentials = ServiceAccountCredentials.from_json_keyfile_name("src/users_sheets_key.json", scopes) #access the json key you downloaded earlier 
+file = gspread.authorize(credentials) # authenticate the JSON key with gspread
+sheet = file.open("ot-h-tyo_users_and_passwords") #open sheet
+user_sheet = sheet.sheet_name 
 
 class UI:
-    def __init__(self, root):
+    def __init__(self, root, user_sheet):
         self._root = root
         self._view = None
-        self.users_file = open(r"repositories/users.txt", "r+")
+        self.user_sheet = user_sheet
+        #self.users_file = open(r"repositories/users.txt", "r+")
+        #self.user_sheet = pygsheets.authorize(service_file='src/users_sheets_key.json')
+        #self.df = pd.DataFrame()
 
     def _hide_view(self):
         if self._view:
@@ -42,11 +59,11 @@ class UI:
         self._root.grid_columnconfigure(1, weight=1, minsize=500)
 
     def login_click(self):
-        entry_value = self._entry.get()
-        for line in self.users_file:
-            r = line.split(",")
-            username = r[0]
-            password = r[1]
+        #entry_value = self._entry.get()
+        for line in self.user_sheet:
+            #r = line.split(",")
+            username = self.user_sheet(line, 1).value
+            password = self.user_sheet(line, 2).value
             # lastchar = len(password)-1
             # password = password[0:lastchar]
             print(username, password)
@@ -60,10 +77,11 @@ class UI:
             title="Username", prompt="Input new username")
         new_password = simpledialog.askstring(
             title="Password", prompt="Input new password")
-        self.users_file.write(new_username)
-        self.users_file.write(",")
-        self.users_file.write(new_password)
-        self.users_file.write("\n")
+        self.user_sheet.update_acell(new_username)
+        #self.user_sheet.write(",")
+        self.user_sheet.update_acell(new_password)
+        #self.user_sheet.write("\n")
+        #sheet.append_row(vals)
         print(f"Username: {new_username}")
         print(f"Password: {new_password}")
 
