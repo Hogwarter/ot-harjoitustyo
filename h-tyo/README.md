@@ -9,6 +9,7 @@
 
 ## Julkaisut
 [1. Viikko 5](https://github.com/Hogwarter/ot-harjoitustyo/releases/tag/viikko5)
+
 [2. Viikko 6](https://github.com/Hogwarter/ot-harjoitustyo/releases/tag/viikko6)
 
 ## Ohjelman asennus komentoriviltä:
