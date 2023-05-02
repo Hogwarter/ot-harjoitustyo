@@ -6,4 +6,4 @@ Sovelluksen tarkoituksena on helpottaa omien kokoelmiesi ylläpitoa.
 * [Vaatimusmäärittely](https://github.com/Hogwarter/ot-harjoitustyo/blob/master/h-tyo/dokumentaatio/vaatimusmaarittelu.md)
 * [README](https://github.com/Hogwarter/ot-harjoitustyo/blob/master/h-tyo/README.md)
 * [Changelog](https://github.com/Hogwarter/ot-harjoitustyo/blob/master/h-tyo/dokumentaatio/changelog.md)
-
+* [Käyttöohje](https://github.com/Hogwarter/ot-harjoitustyo/blob/master/h-tyo/dokumentaatio/kayttoohje.md)
