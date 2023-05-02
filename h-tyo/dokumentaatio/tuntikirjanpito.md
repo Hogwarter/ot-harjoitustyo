@@ -10,4 +10,6 @@
 | 17.4  | 12 | Poetryn tuhon tuottoa  |
 | 24.4  | 3 | Poetryn tuhon tuottoa (edelleen) |
 | 25.4  | 7 | Poetry vihdoin toimii  |
-| yht.  | 44 | Että sellasta  |
+| 1.5  | 4 | Koodin uudelleen järjestely  |
+| 2.5  | 5 | UI skoilua ja uudelleen järjestelyn jatkoa (valitettavasti ei sen vuoksi koodi toimi tällähetkellä)  |
+| yht.  | 53 | Että sellasta  |
