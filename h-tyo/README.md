@@ -10,13 +10,23 @@
 [1. Viikko 5](https://github.com/Hogwarter/ot-harjoitustyo/releases/tag/viikko5)
 
 ## Ohjelman asennus komentoriviltä:
-Lataa tarvittavat riippuvuudet terminaalin kautta komennolla: poetry install
-
-Alusta ohjelma komennolla: poetry run invoke build
-
-Käynnistä ohjelma komennolla: poetry run invoke start
-
-Testikattavuusraportti saadaan komennolla: poetry run invoke coverage-report
-
-Pylint-tarkastus puolestaan saadaan komennolla: poetry run invoke lint
-
+Lataa tarvittavat riippuvuudet terminaalin kautta komennolla:
+```python
+poetry install
+```
+Alusta ohjelma komennolla:
+```python
+poetry run invoke build
+```
+Käynnistä ohjelma komennolla:
+```python
+poetry run invoke start
+```
+Testikattavuusraportti saadaan komennolla:
+```python
+poetry run invoke coverage-report
+```
+Pylint-tarkastus puolestaan saadaan komennolla:
+```python
+poetry run invoke lint
+```
