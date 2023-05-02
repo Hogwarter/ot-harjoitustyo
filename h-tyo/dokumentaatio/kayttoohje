@@ -1,0 +1,19 @@
+# Käyttöohje
+
+Lataa projektin viimeisimmän [julkaisun](https://github.com/) lähdekoodi _Assets_-osion alta kohdasta _Source code_.
+
+## Ohjelman asennus komentoriviltä:
+Lataa tarvittavat riippuvuudet terminaalin kautta komennolla:
+```python
+poetry install
+```
+Alusta ohjelma komennolla:
+```python
+poetry run invoke build
+```
+## Ohjelman käynnistäminen
+Käynnistä ohjelma komennolla:
+```python
+poetry run invoke start
+```
+
