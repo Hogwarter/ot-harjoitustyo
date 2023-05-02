@@ -17,3 +17,14 @@ Käynnistä ohjelma komennolla:
 poetry run invoke start
 ```
 
+## Kirjautuminen
+
+Ohjelma avautuu kirjautumisnäkymään, jossa käyttäjää pyydetään syöttämään käyttäjänimi ja salasana, tai luomaan uusi käyttäjä.
+
+## Uuden käyttäjän luonti
+
+Käyttäjä voi luoda uuden käyttäjä painamalla "New user" - painiketta, jonka jälkeen ohjelma pyytää uutta käyttäjää syöttämään uuden käyttäjänimen, sekä salasanan.
+
+## Uuden collectionin luominen ja muokkaaminen
+
+
