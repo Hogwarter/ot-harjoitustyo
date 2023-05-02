@@ -18,14 +18,22 @@ Alusta ohjelma komennolla:
 ```python
 poetry run invoke build
 ```
+## Ohjelman käynnistäminen
 Käynnistä ohjelma komennolla:
 ```python
 poetry run invoke start
 ```
+## Ohjelman testaus
+Testataan komennolla:
+```python
+poetry run invoke test
+```
+## Ohjelman testikattavuusraportti
 Testikattavuusraportti saadaan komennolla:
 ```python
 poetry run invoke coverage-report
 ```
+## Ohjelman Pylint-tarkastaminen
 Pylint-tarkastus puolestaan saadaan komennolla:
 ```python
 poetry run invoke lint
