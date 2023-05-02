@@ -1,3 +1,3 @@
-class collectable:
-    def __init__(self, c_name):
-        self.c_name = c_name
+class Collections:
+    def __init__(self, collection_id, user=None):
+        self.collection_id = collection_id
