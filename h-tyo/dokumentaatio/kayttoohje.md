@@ -1,6 +1,6 @@
 # Käyttöohje
 
-Lataa projektin viimeisimmän [julkaisun](https://github.com/) lähdekoodi _Assets_-osion alta kohdasta _Source code_.
+Lataa projektin viimeisimmän [julkaisun](https://github.com/Hogwarter/ot-harjoitustyo/releases/tag/viikko6) lähdekoodi _Assets_-osion alta kohdasta _Source code_.
 
 ## Ohjelman asennus komentoriviltä:
 Lataa tarvittavat riippuvuudet terminaalin kautta komennolla:
